@@ -1,0 +1,54 @@
+.column{
+    float: left;
+}
+
+.owner-name{
+    margin-left: 4.3rem;
+    margin-top: 1rem;
+    padding: 2.2rem 0 2.2rem 2.2rem;
+}
+.owner-details h2{
+    margin-bottom: 0.5rem;
+}
+
+.owner-details{
+    width: 35rem;
+    padding: 1.1rem;
+    margin-left: 0rem;
+    margin-top: 3.2rem;
+}
+.left{
+    text-align: left;
+    padding-left: 2.5rem;
+}
+
+
+
+
+
+
+
+
+.booking{
+    margin-top: 6rem;
+    padding: 0rem;
+}
+.booking h2{
+    text-align: center;
+}
+
+.about{
+    padding-left: 6.6rem;
+    padding-right: 10rem;
+}
+
+.about .images {
+    text-align: left;
+  }
+
+  .about .images img {
+    display: inline;
+    width: 200px;
+    margin: 0 0.85rem;
+  }
+
